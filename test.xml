@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Example Store</title>
+    <link>https://products.com</link>
+    <description>Product Feed for Google Merchant Center</description>
+
+    <item>
+      <g:id>123a</g:id>
+      <g:item_group_id>123</g:item_group_id>
+      <g:title>Example T-Shirt - Small Blue</g:title>
+      <g:description>Excellent t-shirt</g:description>
+      <g:link>https://products.com/tshirt/small-blue</g:link>
+      <g:image_link>https://products.com/tshirt-small-blue.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>90 USD</g:price>
+      <g:brand>Firework</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
+      <g:size>Small</g:size>
+      <g:color>Blue</g:color>
+    </item>
+
+    <item>
+      <g:id>123b</g:id>
+      <g:item_group_id>123</g:item_group_id>
+      <g:title>Example T-Shirt - Medium Blue</g:title>
+      <g:description>Excellent t-shirt</g:description>
+      <g:link>https://products.com/tshirt</g:link>
+      <g:image_link>https://products.com/tshirt-medium-blue.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 USD</g:price>
+      <g:brand>Firework</g:brand>
+      <g:gtin>11-187221</g:gtin>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
+      <g:size>Medium</g:size>
+      <g:color>Blue</g:color>
+    </item>
+
+    <item>
+      <g:id>123c</g:id>
+      <g:item_group_id>123</g:item_group_id>
+      <g:title>Example T-Shirt - Large Red</g:title>
+      <g:description>Excellent t-shirt</g:description>
+      <g:link>https://products.com/tshirt/large-red</g:link>
+      <g:image_link>https://products.com/tshirt-large-red.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>110 USD</g:price>
+      <g:brand>Wirefork</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
+      <g:size>Large</g:size>
+      <g:color>Red</g:color>
+    </item>
+
+    <item>
+      <g:id>234a</g:id>
+      <g:item_group_id>234</g:item_group_id>
+      <g:title>Example Pants - All</g:title>
+      <g:description>Excellent pants</g:description>
+      <g:link>https://products.com/pants</g:link>
+      <g:image_link>https://products.com/pants.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>69.5 USD</g:price>
+      <g:sale_price>79.5 USD</g:sale_price>
+      <g:brand>Firework</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
+      <g:age_group>adult</g:age_group>
+    </item>
+
+    <item>
+      <g:id>345</g:id>
+      <g:title>Example Hats</g:title>
+      <g:description>Excellent hat</g:description>
+      <g:link>https://products.com/hats</g:link>
+      <g:image_link>https://products.com/hats.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>19.95 USD</g:price>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+
+  </channel>
+</rss>
