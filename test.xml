@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
-    <title>Example Store</title>
+    <title>Ashok Kumar Pandy - Store</title>
     <link>https://products.com</link>
     <description>Product Feed for Google Merchant Center</description>
 
     <item>
       <g:id>123a</g:id>
       <g:item_group_id>123</g:item_group_id>
-      <g:title>Example T-Shirt - Small Blue</g:title>
+      <g:title>Ashokkumar.Pandy - T-Shirt - Small Blue</g:title>
       <g:description>Excellent t-shirt</g:description>
       <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
       <g:image_link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:image_link>
@@ -24,7 +24,7 @@
     <item>
       <g:id>123b</g:id>
       <g:item_group_id>123</g:item_group_id>
-      <g:title>Example T-Shirt - Medium Blue</g:title>
+      <g:title>Ashokkumar.Pandy - T-Shirt - Medium Blue</g:title>
       <g:description>Excellent t-shirt</g:description>
        <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
       <g:image_link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:image_link>
@@ -41,7 +41,7 @@
     <item>
       <g:id>123c</g:id>
       <g:item_group_id>123</g:item_group_id>
-      <g:title>Example T-Shirt - Large Red</g:title>
+      <g:title>Ashokkumar.Pandy - T-Shirt - Large Red</g:title>
       <g:description>Excellent t-shirt</g:description>
        <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
       <g:image_link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:image_link>
@@ -57,13 +57,13 @@
     <item>
       <g:id>234a</g:id>
       <g:item_group_id>234</g:item_group_id>
-      <g:title>Example Pants - All</g:title>
+      <g:title>Ashokkumar.Pandy - Pants - All</g:title>
       <g:description>Excellent pants</g:description>
        <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
       <g:image_link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
-      <g:price>69.5</g:price>
+      <g:price>169.5</g:price>
       <g:sale_price>79.5</g:sale_price>
       <g:brand>Firework</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
