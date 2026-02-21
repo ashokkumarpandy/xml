@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Ashok Kumar Pandy - Store</title>
+    <link>https://products.com</link>
+    <description>Product Feed for Google Merchant Center</description>
+
+    <item>
+      <g:id>1234a</g:id>
+      <g:item_group_id>123</g:item_group_id>
+      <g:title>T-Shirt - Small Blue</g:title>
+      <g:description>Excellent t-shirt</g:description>
+      <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
+      <g:image_link>https://media.6media.me/media/catalog/product/6/s/6s-51224217603126_3.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>199</g:price>
+      <g:brand>Firework</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
+      <g:size>Small</g:size>
+      <g:color>Blue</g:color>
+    </item>
+
+    <item>
+      <g:id>1234b</g:id>
+      <g:item_group_id>123</g:item_group_id>
+      <g:title>T-Shirt - Medium Blue</g:title>
+      <g:description>Excellent t-shirt</g:description>
+       <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
+      <g:image_link>https://media.6media.me/media/catalog/product/6/s/6s-51224217603126_3.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99</g:price>
+      <g:brand>Firework</g:brand>
+      <g:gtin>11-187221</g:gtin>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
+      <g:size>Medium</g:size>
+      <g:color>Blue</g:color>
+    </item> 
+  </channel>
+</rss>

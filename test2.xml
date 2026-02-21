@@ -6,7 +6,7 @@
     <description>Product Feed for Google Merchant Center</description>
 
     <item>
-      <g:id>123a</g:id>
+      <g:id>1234c</g:id>
       <g:item_group_id>123</g:item_group_id>
       <g:title>T-Shirt - Small Blue</g:title>
       <g:description>Excellent t-shirt</g:description>
@@ -22,7 +22,7 @@
     </item>
 
     <item>
-      <g:id>123b</g:id>
+      <g:id>1234d</g:id>
       <g:item_group_id>123</g:item_group_id>
       <g:title>T-Shirt - Medium Blue</g:title>
       <g:description>Excellent t-shirt</g:description>
@@ -36,37 +36,6 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
       <g:size>Medium</g:size>
       <g:color>Blue</g:color>
-    </item>
-
-    <item>
-      <g:id>123c</g:id>
-      <g:item_group_id>123</g:item_group_id>
-      <g:title>T-Shirt - Large Red</g:title>
-      <g:description>Excellent t-shirt</g:description>
-       <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
-      <g:image_link>https://media.6media.me/media/catalog/product/6/s/6s-51224217603126_3.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>110</g:price>
-      <g:brand>Wirefork</g:brand>
-      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
-      <g:size>Large</g:size>
-      <g:color>Red</g:color>
-    </item>
-
-    <item>
-      <g:id>234a</g:id>
-      <g:item_group_id>234</g:item_group_id>
-      <g:title>Pants - All</g:title>
-      <g:description>Excellent pants</g:description>
-       <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
-     <g:image_link>https://media.6media.me/media/catalog/product/6/s/6s-51224217603126_3.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>69</g:price>
-      <g:brand>Firework</g:brand>
-      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
-      <g:age_group>adult</g:age_group>
     </item> 
   </channel>
 </rss>
