@@ -7,7 +7,7 @@
 
     <item>
       <g:id>1234a</g:id>
-      <g:item_group_id>123</g:item_group_id>
+      <g:item_group_id>1234a</g:item_group_id>
       <g:title>T-Shirt - Small Blue</g:title>
       <g:description>Excellent t-shirt</g:description>
       <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
@@ -23,7 +23,7 @@
 
     <item>
       <g:id>1234b</g:id>
-      <g:item_group_id>123</g:item_group_id>
+      <g:item_group_id>1234b</g:item_group_id>
       <g:title>T-Shirt - Medium Blue</g:title>
       <g:description>Excellent t-shirt</g:description>
        <g:link>https://en-ae.6thstreet.com/buy-beverly-hills-polo-club-clothing-logo-embroidered-contrast-trim-polo-t-shirt-6s-l2242-pink.html</g:link>
